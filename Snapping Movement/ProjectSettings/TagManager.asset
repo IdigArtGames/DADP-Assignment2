@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Spike
+  - OtherPlayer
+  - Ambulance
+  - OtherAmbulance
+  - Front
+  - Back
+  - Right
+  - Left
   layers:
   - Default
   - TransparentFX
