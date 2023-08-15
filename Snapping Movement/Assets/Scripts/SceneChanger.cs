@@ -10,7 +10,7 @@ public class SceneChanger : MonoBehaviour
 
     public void MainMenu()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 4);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 5);
     }
 
     public void QuitGame()
